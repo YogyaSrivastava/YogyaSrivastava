@@ -1,67 +1,57 @@
 # Yogya
 
-```Js
+```js
 const developer = {
   name: "Yogya",
-  age: 12,
-  location: "UP, INDIA",
   alias: "@lilcloudcoder",
+  location: "UP, India",
 
-  focus: ["lowlevel","fullstack","ai"],
+  focus: ["development"],
   inspired_by: ["Dennis Ritchie", "Linus Torvalds"]
 };
 ```
+
 ## Stack
-## Languages
 
+### Languages
 
-[![Low Level](https://skillicons.dev/icons?i=c,cpp,cs,wasm,bash)](https://skillicons.dev)
+C · Bash <br>
+Python · Lua · Solidity <br>
+JavaScript · TypeScript · HTML · CSS · Node.js <br>
+Rust · Go <br>
 
+### Frameworks
 
-[![High Level](https://skillicons.dev/icons?i=py,java,dart,lua,apple,solidity)](https://skillicons.dev)
+React · Next.js <br>
+FastAPI · Flask <br>
+Flutter · Swift <br>
 
+### Tools
 
-[![Web](https://skillicons.dev/icons?i=js,ts,html,css,nodejs)](https://skillicons.dev)
-
-
-[![AI](https://skillicons.dev/icons?i=rust,go)](https://skillicons.dev)
-
----
-
-## Frameworks / Libraries
-
-
-[![Frameworks - Web](https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,astro,vue,deno,firebase)](https://skillicons.dev)
-
-
-[![Frameworks - AI](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi,flask,sqlite,mongo)](https://skillicons.dev)
-
-
-[![App Dev](https://skillicons.dev/icons?i=flutter,swift)](https://skillicons.dev)
-
----
-
-## Tools
-[![Tools](https://skillicons.dev/icons?i=github,git,anaconda,figma,cloudflare,gcp,neovim,vim)](https://skillicons.dev)
-
+Git · GitHub · Neovim · Vim  <br>
+Cloudflare · GCP <br>
 
 ## Setup
-```JS
+
+```js
 const setup = {
   terminal: "Alacritty",
-  codeEditor: "NvChad with lots of tweaks",
-  prompt: "Starship",
-  tools: ["Zoxide","Starship","tmux","eza"]
+  editor: "Neovim (NvChad)",
+  prompt: "Starship"
 };
 ```
 
-## Client Work
-- [Sangharsh Premier League](https://sangharshpremierleague.com/) REACT
-- [Shidh Shakti Mission](https://shidhshaktimission.com/) NEXT
+## Work
+
+Sangharsh Premier League
+https://sangharshpremierleague.com/
+Stack: React
+
+Shidh Shakti Mission
+https://shidhshaktimission.com/
+Stack: Next.js
 
 ## Contact
--  yogya.coder@gmail.com
--  Portfolio Site: https://lilcloudcoder.github.io/ NEXT
 
----
-**Now follow me and _go touch some GRASS_** 
+[yogya.coder@gmail.com](mailto:yogya.coder@gmail.com)
+https://lilcloudcoder.github.io/
